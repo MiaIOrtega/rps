@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=w\ d\ l
+comment2.target=java.lang.String\ rock(int,\ int,\ int)
+comment3.params=w\ d\ l
+comment3.target=java.lang.String\ paper(int,\ int,\ int)
+comment4.params=w\ d\ l
+comment4.target=java.lang.String\ scissors(int,\ int,\ int)
+comment5.params=
+comment5.target=int\ ran()
+comment6.params=num
+comment6.target=java.lang.String\ set(int)
+comment7.params=c
+comment7.target=int\ cw(int)
+comment8.params=c
+comment8.target=int\ cl(int)
+comment9.params=c
+comment9.target=int\ cd(int)
+numComments=10
